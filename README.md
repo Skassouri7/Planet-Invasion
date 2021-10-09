@@ -9,7 +9,7 @@ In order to run the application:
 1. Open up the **.pde**  File (Make sure you have installed processing).
 
 3. Under the sketch tab click on import libraries and install the sound
-   Library.
+   library.
 
 2. Click on the run button.
 
